@@ -1,29 +1,3 @@
 {
-  "project_info": {
-    "project_number": "207957293364",
-    "project_id": "ebook-app-baabe",
-    "storage_bucket": "ebook-app-baabe.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:207957293364:android:54fbeeec56ea37f2590d61",
-        "android_client_info": {
-          "package_name": "com.example.ebookapp"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBYhyQ4pexaRqX-eUZp14BrINWwjIBHsqE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+  
 }
